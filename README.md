@@ -6,6 +6,8 @@ I'm Jonathan, An up and coming software developer who is currently enrolled at C
 
 -- [Lawn Cutter](https://jo-nathanwright.github.io/grass-cutter)
 
+--[Inspire](https://jo-nathanwright.github.io/Inspire/)
+
 --🌱 I'm currently learning • JavaScript
 
 --📫 You can reach me on these platforms! • [LinkedIn](https://www.linkedin.com/in/jonathan-wright-272062216/) • Email: j.wright72127@gmail.com
