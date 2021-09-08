@@ -2,13 +2,15 @@
 
 I'm Jonathan, An up and coming software developer who is currently enrolled at CodeWorksBoise. I have a passion for making video games and Webpages. I love walks outside as well as long sessions at a computer. Heres some cool things I've made! 
 
+-- [Foodie Chews - FullStack Food Finder App](https://foodiechews.herokuapp.com/#/)
+
 -- [List Maker](https://jo-nathanwright.github.io/TaskMaster)
 
 -- [Lawn Cutter](https://jo-nathanwright.github.io/grass-cutter)
 
 --[Inspire](https://jo-nathanwright.github.io/Inspire/)
 
---🌱 I'm currently learning • JavaScript
+--🌱 I'm currently learning • C#
 
 --📫 You can reach me on these platforms! • [LinkedIn](https://www.linkedin.com/in/jonathan-wright-272062216/) • Email: j.wright72127@gmail.com
 
