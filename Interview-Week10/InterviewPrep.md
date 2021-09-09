@@ -1,0 +1,1 @@
+One of the main things I could do before an interview is prepare. I would do research on their company and see what they use. I would talk to former employees to see what the interview was like. I would also pratice more whiteboard problems to get into the coding on a board mindset.
