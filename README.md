@@ -4,15 +4,15 @@ I'm Jonathan, An up and coming software developer who is currently enrolled at C
 
 -- [Foodie Chews - FullStack Food Finder App](https://foodiechews.herokuapp.com/#/)
 
--- [List Maker](https://jo-nathanwright.github.io/TaskMaster)
+-- [Bug Log](https://insectencyclopedia.herokuapp.com/#/)
 
 -- [Lawn Cutter](https://jo-nathanwright.github.io/grass-cutter)
 
---[Inspire](https://jo-nathanwright.github.io/Inspire/)
+-- [Inspire](https://jo-nathanwright.github.io/Inspire/)
 
---🌱 I'm currently learning • C#
+--🌱 I'm currently learning • C# and Unity
 
---📫 You can reach me on these platforms! • [LinkedIn](https://www.linkedin.com/in/jonathan-wright-272062216/) • Email: j.wright72127@gmail.com
+--📫 You can reach me on these platforms! • [LinkedIn](https://www.linkedin.com/in/jonathan-wwright/) • Email: j.wright72127@gmail.com
 
 --⚡ Fun Facts: I've made multiple small fan games
 <!--
