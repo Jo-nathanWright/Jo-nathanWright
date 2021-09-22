@@ -1,0 +1,7 @@
+## Edited Pitch
+
+  Nice To meet you, I'm Jonathan Wright. I'm a software developer that specilizes in backends and can hold my own when designing front ends. I have experiance with Javascript and C# and know my way around HTML, CSS, Bootstrap as well as Vue which is similar to react and angular. I'm familiar with both MongoDB and mySQL, having built backends for applications with both. I have a passion to learn more about coding and for game development.
+
+  When younger I played text adventure games as well as code along challenges on our home computer. These are what help spark my intrest in coding which lead me to take some coding classes at my High School. After Highschool, I felt the need to progress my education, so I Attened At Codeworks, a tradeschool in the boise area. While there I produced multiple scrum directed full stack applications. With the help of a small dev team, I even helped make a restaurnat finder app called Foodie Chews, Utilizing Node.js, Vue, the Yelp API and MongoDB.
+
+  On development side, I hope to have my first big game project out before the end of 22 as I'm in the process of learning how to use Unity. I'm constintly looking for was to improve my code as well as learn new ways to do so. I've made multiple projects that not only look professional, but that are also functional. If we had the time, I'm confident that I could show you that I have the skills necissary to join your team and the skill to learn more if needed.
